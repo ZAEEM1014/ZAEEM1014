@@ -3,8 +3,6 @@
 
 🚀 Full-Stack Flutter Developer | Flutter, Dart & Firebase Enthusiast
 
-🌟 Interests: Building apps like Bhookh Lagi & Captain Truck
-
 🎓 Exploring backend with Node.js and scalable architectures
 
 🤝 Open to Collaboration on innovative projects
