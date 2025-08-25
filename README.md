@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌟 Full-Stack Flutter Developer <br>💡 Tech Stack: Flutter, Dart, Firebase<br>🌱 Exploring new tech & open to collaboration.<br>
+🌟 Full-Stack Flutter Developer <br>
+💡 Tech Stack: Flutter, Dart, Firebase, GetX, Node.js <br>
+🚀 Building apps like Bhookh Lagi & Captain Truck <br>
+🌱 Exploring new technologies & open to collaboration
+
 
 
 ## 🌐 Socials:
