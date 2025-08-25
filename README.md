@@ -1,14 +1,24 @@
 # 💫 About Me:
-🌟 Full-Stack Flutter Developer <br>
-💡 Tech Stack: Flutter, Dart, Firebase, GetX, Node.js <br>
-🚀 Building apps like Bhookh Lagi & Captain Truck <br>
-🌱 Exploring new technologies & open to collaboration
+👋 Hi there! I'm Zaeem Akhtar (@zaeemakh117)
+
+🚀 Full-Stack Flutter Developer | Flutter, Dart & Firebase Enthusiast
+
+🌟 Interests: Building apps like Bhookh Lagi & Captain Truck
+
+🎓 Exploring backend with Node.js and scalable architectures
+
+🤝 Open to Collaboration on innovative projects
+
+📧 Connect: zaeemakh117@gmail.com
+
+🎯 Fun Fact: I believe technology turns ideas into reality!
 
 
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ZAEEM1014&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
